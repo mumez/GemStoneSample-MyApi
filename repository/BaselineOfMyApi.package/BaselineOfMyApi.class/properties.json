@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMyApi",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMyApi",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

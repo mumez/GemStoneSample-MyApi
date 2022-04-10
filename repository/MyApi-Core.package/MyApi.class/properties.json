@@ -1,0 +1,14 @@
+{
+	"category" : "MyApi-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MyApi",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
