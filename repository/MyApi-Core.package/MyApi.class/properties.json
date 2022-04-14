@@ -10,5 +10,5 @@
 	"name" : "MyApi",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ZnDefaultGsTransactionalServerDelegate",
 	"type" : "normal" }
